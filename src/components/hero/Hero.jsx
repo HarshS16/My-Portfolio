@@ -127,7 +127,7 @@ const Hero = () => {
         </motion.div>
         {/* BUBBLE */}
         <Speech />
-        {/* CERTIFICATE */}
+        {/* CERTIFICATE
         <motion.div
           animate={{ opacity: [0, 1] }}
           transition={{ duration: 1 }}
@@ -139,7 +139,7 @@ const Hero = () => {
           PROFESSIONAL
           <br />
           UI DESIGNER
-        </motion.div>
+        </motion.div> */}
         {/* CONTACT BUTTON */}
         <motion.a
           href="/#contact"
