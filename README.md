@@ -1,3 +1,3 @@
-# Lama Dev Animated 3D Portfolio Website Project
+#  Animated 3D Portfolio Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository holds my 3d portfolio website, designed using react, three js and framer motion.
