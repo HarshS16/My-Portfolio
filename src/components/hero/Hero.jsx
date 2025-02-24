@@ -143,7 +143,7 @@ const Hero = () => {
         {/* CONTACT BUTTON */}
         <motion.a
           href="Resume.pdf"
-          // download="Harsh_FullstackWeb_Resume.pdf"
+          download="Harsh_FullstackWeb_Resume.pdf"
           className="contactLink"
           animate={{
             x: [200, 0],
