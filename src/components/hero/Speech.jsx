@@ -14,7 +14,7 @@ const Speech = () => {
             1000,
             "Hey there! I am Harsh - A full stack Web developer from Delhi, India ",
             1000,
-            "I am a Computer Engineering grad with interest in Web development and Machine Learning ",
+            "I am a Computer Engineering grad with inclination towards Machine Learning ",
             1000,
           ]}
           wrapper="span"
