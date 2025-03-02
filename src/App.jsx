@@ -33,6 +33,7 @@ const App = () => {
           {/* <section id="#portfolio"> */}
           <Portfolio />
           {/* </section> */}{" "}
+          
         </LazyLoad>
       </Suspense>
       <Suspense fallback={"loading..."}>
