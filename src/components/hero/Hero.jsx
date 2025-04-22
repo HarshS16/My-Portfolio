@@ -1,4 +1,4 @@
-import { Canvas } from "@react-three/fiber";
+.import { Canvas } from "@react-three/fiber";
 import "./hero.css";
 import Speech from "./Speech";
 import { motion } from "motion/react";
@@ -203,7 +203,7 @@ const Hero = () => {
           </Suspense>
         </Canvas>
         <div className="hImg">
-          <img src="/hh.png" alt="" />
+          <img src="/dev.jpg" alt="" />
         </div>
       </div>
     </div>
