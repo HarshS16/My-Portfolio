@@ -142,7 +142,7 @@ const Hero = () => {
         </motion.div> */}
         {/* CONTACT BUTTON */}
         <motion.a
-          href="Resume.pdf"
+          href="https://drive.google.com/file/d/1Yf89jQAU01dsjtobSirskd9xV9TeB2hm/view?usp=sharing"
           download="Resume.pdf"
           className="contactLink"
           animate={{
